@@ -12,8 +12,8 @@ _**Statistical Methods in Medical Research**_, to appear.<br>
 [[code](https://github.com/jlin-vt/BMGGM)][[demo](https://github.com/jlin-vt/BMGGM/wiki/Network-Analysis:-Gaussian-Graphical-Models)]
 
 * Multiple and Multilevel Graphical Models <br>
-<!--Inyoung Kim, Jiali Lin, Wenyu Gao, Byung-Jun Kim, Hamdy Mahmoud.<br>
-_**Computational Statistics 2020**_, to appear.<br>-->
+<!--Inyoung Kim, Jiali Lin, Wenyu Gao, Byung-Jun Kim, Hamdy Mahmoud.<br>-->
+_**Computational Statistics 2020**_, to appear.<br>
 [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.1497)]
 
 * Gaussian Process Selections in Semiparametric Regression <br>
