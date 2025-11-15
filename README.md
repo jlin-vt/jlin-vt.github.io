@@ -22,7 +22,7 @@ Submitted to _**Journal of Statistical Computation and Simulation**_.<br>
 [[code](https://github.com/jlin-vt/GpSelection.jl)]
 
 * Enhancing Out-Of-Domain Utterance Detection with Data Augmentation Based on Word Embeddings <br>
-Richie Feng, Jeffrey Lin.<br
+Richie Feng, Jeffrey Lin.<br>
 Submitted to _**EMNLP**_.<br>
 [[preprint](https://arxiv.org/abs/1911.10439)]
 
